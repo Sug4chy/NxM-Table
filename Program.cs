@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection.Metadata.Ecma335;
 
 namespace ClassWork
 {
@@ -48,6 +49,26 @@ namespace ClassWork
             Console.Clear();
 
             DrawTable(N, M);
+            Thread.Sleep(3000);
+            DoYouWantToTryAgain();
+        }
+
+        public static void DoYouWantToTryAgain()
+        {
+            Console.Write("\nЕсли хотите продолжить работу с программой, введите 1: ");
+            string input = Console.ReadLine();
+            switch (input)
+            {
+                case "1":
+                    Console.Clear();
+                    Main();
+                    break;
+                default:
+                    return;
+                    break;
+
+            }
+
         }
 
         public static void DrawTable(int N, int M)

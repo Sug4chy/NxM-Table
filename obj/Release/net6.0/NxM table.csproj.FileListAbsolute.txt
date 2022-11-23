@@ -1,0 +1,15 @@
+C:\Users\User1\source\repos\NxM table\bin\Release\net6.0\NxM table.exe
+C:\Users\User1\source\repos\NxM table\bin\Release\net6.0\NxM table.deps.json
+C:\Users\User1\source\repos\NxM table\bin\Release\net6.0\NxM table.runtimeconfig.json
+C:\Users\User1\source\repos\NxM table\bin\Release\net6.0\NxM table.dll
+C:\Users\User1\source\repos\NxM table\bin\Release\net6.0\NxM table.pdb
+C:\Users\User1\source\repos\NxM table\obj\Release\net6.0\NxM table.csproj.AssemblyReference.cache
+C:\Users\User1\source\repos\NxM table\obj\Release\net6.0\NxM table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\source\repos\NxM table\obj\Release\net6.0\NxM table.AssemblyInfoInputs.cache
+C:\Users\User1\source\repos\NxM table\obj\Release\net6.0\NxM table.AssemblyInfo.cs
+C:\Users\User1\source\repos\NxM table\obj\Release\net6.0\NxM table.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\NxM table\obj\Release\net6.0\NxM table.dll
+C:\Users\User1\source\repos\NxM table\obj\Release\net6.0\refint\NxM table.dll
+C:\Users\User1\source\repos\NxM table\obj\Release\net6.0\NxM table.pdb
+C:\Users\User1\source\repos\NxM table\obj\Release\net6.0\NxM table.genruntimeconfig.cache
+C:\Users\User1\source\repos\NxM table\obj\Release\net6.0\ref\NxM table.dll
